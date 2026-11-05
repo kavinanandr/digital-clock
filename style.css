@@ -21,7 +21,8 @@ body {
 h1 {
   color: white;
   text-align: center;
-  font-size: 5rem;
+  font-size: 4.5rem;
+  padding: 0.5rem;
   background-color: hsla(0, 0%, 50%, 0.1);
   backdrop-filter: blur(5px);
 }
